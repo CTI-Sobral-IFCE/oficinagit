@@ -11,5 +11,3 @@ leitor.question('Qual módulo ler dados no node.js?\n', function(answer) {
     console.log('\nSua responsta "' + resp + '" foi gravada com sucesso numa váriável inútil')
     leitor.close()
 })
-
-console.log(resp)
